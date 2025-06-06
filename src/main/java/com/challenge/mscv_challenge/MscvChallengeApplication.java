@@ -8,8 +8,6 @@ public class MscvChallengeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MscvChallengeApplication.class, args);
-
-		System.out.println("heloooooooo probando");
 	}
 
 }
