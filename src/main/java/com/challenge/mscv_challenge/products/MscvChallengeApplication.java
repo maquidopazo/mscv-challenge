@@ -1,4 +1,4 @@
-package com.challenge.mscv_challenge;
+package com.challenge.mscv_challenge.products;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,9 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MscvChallengeApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(MscvChallengeApplication.class, args);
 
-		System.out.println("heloooooooo probando");
 	}
 
 }
